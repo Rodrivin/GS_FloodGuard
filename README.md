@@ -1,10 +1,10 @@
-#Nome:Rodrigo Vinzent Ariñez Viscarra RM:559192
+# Nome:Rodrigo Vinzent Ariñez Viscarra RM:559192
 
-#Nome:Gabriel Borges Gonçaves Silva RM:558861
+# Nome:Gabriel Borges Gonçaves Silva RM:558861
 
-#Nome:Tarik Omar Mazloum RM:554933
+# Nome:Tarik Omar Mazloum RM:554933
 
-### FloodGuard
+# FloodGuard
 # Sistema de Alerta de Enchentes
 
 Este projeto consiste em um sistema de back-end para monitorar dados de sensores e gerar alertas em caso de risco de enchente. Os dados dos sensores (nível da água, temperatura e umidade) são recebidos através de uma API REST, armazenados em um banco de dados H2 em arquivo, e usados para determinar o nível de risco de enchente. O sistema também permite registrar ações de controle, como a ativação de barreiras.
